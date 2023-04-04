@@ -68,3 +68,29 @@ div{
     background-color: 	#00BFFF;
     border-radius: 50%;
 }
+
+.containerInseto{
+    background-color: #FFD700;
+    padding: 14px;
+    width: 150px;
+    text-align: center;
+    border-radius: 5px;
+}
+
+.inseto{
+    background-color: 	#FFFF00;
+    border-radius: 50%;
+}
+
+.containerNormal{
+    background-color: #d3d3d3;
+    padding: 14px;
+    width: 150px;
+    text-align: center;
+    border-radius: 5px;
+}
+
+.normal{
+    background-color: 	#dcdcdc;
+    border-radius: 50%;
+}
