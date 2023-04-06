@@ -76,7 +76,7 @@ div{
 }
 
 .containerInseto{
-    background-color: #FFD700;
+    background-color: #9ACD32;
     padding: 14px;
     width: 150px;
     text-align: center;
@@ -85,7 +85,7 @@ div{
 }
 
 .inseto{
-    background-color: 	#FFFF00;
+    background-color: 	#ADFF2F;
     border-radius: 50%;
     cursor: pointer;
 }
@@ -161,6 +161,36 @@ div{
 
 .fada{
     background-color: 	#EE82EE;
+    border-radius: 50%;
+    cursor: pointer;
+}
+
+.containerLutador{
+    background-color: #CD5C5C;
+    padding: 14px;
+    width: 150px;
+    text-align: center;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.lutador{
+    background-color: 	#F08080;
+    border-radius: 50%;
+    cursor: pointer;
+}
+
+.containerPsiquico{
+    background-color: #FF6347;
+    padding: 14px;
+    width: 150px;
+    text-align: center;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.psiquico{
+    background-color: 	#FF7F50;
     border-radius: 50%;
     cursor: pointer;
 }
