@@ -36,11 +36,13 @@ div{
     width: 150px;
     text-align: center;
     border-radius: 5px;
+    cursor: pointer;
 }
 
 .grama{
     background-color: #98FB98;
     border-radius: 50%;
+    cursor: pointer;
 }
 
 .containerFogo{
@@ -49,11 +51,13 @@ div{
     width: 150px;
     text-align: center;
     border-radius: 5px;
+    cursor: pointer;
 }
 
 .fogo{
     background-color: #FFA500;
     border-radius: 50%;
+    cursor: pointer;
 }
 
 .containerAgua{
@@ -62,11 +66,13 @@ div{
     width: 150px;
     text-align: center;
     border-radius: 5px;
+    cursor: pointer;
 }
 
 .agua{
     background-color: 	#00BFFF;
     border-radius: 50%;
+    cursor: pointer;
 }
 
 .containerInseto{
@@ -75,22 +81,86 @@ div{
     width: 150px;
     text-align: center;
     border-radius: 5px;
+    cursor: pointer;
 }
 
 .inseto{
     background-color: 	#FFFF00;
     border-radius: 50%;
+    cursor: pointer;
 }
 
 .containerNormal{
-    background-color: #d3d3d3;
+    background-color: #B0E0E6;
     padding: 14px;
     width: 150px;
     text-align: center;
     border-radius: 5px;
+    cursor: pointer;
 }
 
 .normal{
-    background-color: 	#dcdcdc;
+    background-color: 	#E0FFFF;
     border-radius: 50%;
+    cursor: pointer;
+}
+
+.containerVenenoso{
+    background-color: #A020F0;
+    padding: 14px;
+    width: 150px;
+    text-align: center;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.venenoso{
+    background-color: 	#BA55D3;
+    border-radius: 50%;
+    cursor: pointer;
+}
+
+.containerEletrico{
+    background-color: #FFD700;
+    padding: 14px;
+    width: 150px;
+    text-align: center;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.eletrico{
+    background-color: 	#FFFF00;
+    border-radius: 50%;
+    cursor: pointer;
+}
+
+.containerTerrestre{
+    background-color: #D2691E;
+    padding: 14px;
+    width: 150px;
+    text-align: center;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.terrestre{
+    background-color: 	#CD853F;
+    border-radius: 50%;
+    cursor: pointer;
+}
+
+.containerFada{
+    background-color: #DA70D6;
+    padding: 14px;
+    width: 150px;
+    text-align: center;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.fada{
+    background-color: 	#EE82EE;
+    border-radius: 50%;
+    cursor: pointer;
 }
