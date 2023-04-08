@@ -31,7 +31,7 @@ div{
 }
 
 .containerGrama{
-    background-color: #00FF7F;
+    background-color: #7CFC00;
     padding: 14px;
     width: 150px;
     text-align: center;
@@ -40,7 +40,7 @@ div{
 }
 
 .grama{
-    background-color: #98FB98;
+    background-color: #ADFF2F;
     border-radius: 50%;
     cursor: pointer;
 }
@@ -91,7 +91,7 @@ div{
 }
 
 .containerNormal{
-    background-color: #B0E0E6;
+    background-color: #C0C0C0;
     padding: 14px;
     width: 150px;
     text-align: center;
@@ -100,7 +100,7 @@ div{
 }
 
 .normal{
-    background-color: 	#E0FFFF;
+    background-color: 	#DCDCDC;
     border-radius: 50%;
     cursor: pointer;
 }
@@ -206,6 +206,51 @@ div{
 
 .pedra{
     background-color: 	#A9A9A9;
+    border-radius: 50%;
+    cursor: pointer;
+}
+
+.containerFantasma{
+    background-color: #6959CD;
+    padding: 14px;
+    width: 150px;
+    text-align: center;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.fantasma{
+    background-color: 	#836FFF;
+    border-radius: 50%;
+    cursor: pointer;
+}
+
+.containerGelo{
+    background-color: #87CEEB;
+    padding: 14px;
+    width: 150px;
+    text-align: center;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.gelo{
+    background-color: 	#ADD8E6;
+    border-radius: 50%;
+    cursor: pointer;
+}
+
+.containerDragao{
+    background-color: #4682B4;
+    padding: 14px;
+    width: 150px;
+    text-align: center;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.dragao{
+    background-color: 	#B0C4DE;
     border-radius: 50%;
     cursor: pointer;
 }
