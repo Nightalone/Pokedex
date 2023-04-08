@@ -194,3 +194,18 @@ div{
     border-radius: 50%;
     cursor: pointer;
 }
+
+.containerPedra{
+    background-color: #808080;
+    padding: 14px;
+    width: 150px;
+    text-align: center;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.pedra{
+    background-color: 	#A9A9A9;
+    border-radius: 50%;
+    cursor: pointer;
+}
